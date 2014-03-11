@@ -1,0 +1,98 @@
+.jumbotron {
+  padding-top: 90px;
+  min-height: 591px;
+  margin-bottom: 0;
+  background-image: url('images/set.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  font-family: 'Berkshire Swash';
+  color: black;
+  padding-top: 50px;
+  text-align: center;
+  font-size: 93px;
+  }
+body { padding-top: 50px;}
+.jumbotron img {
+       margin: 40px 0px 0px 0px;
+       border: 7px solid black;
+       border-radius: 20px;
+}
+.jumbotron img {
+  margin-top: 20px;
+  margin-bottom: 25px;
+}
+.intro {
+  background-color: rgba(255, 255, 255, .65);
+  border: 7px solid black;
+  border-radius: 20px;
+}
+h2 {
+  margin-bottom: 1.5em;
+}
+
+blockquote {
+  border-left: 0;
+}
+h2 { 
+  font-family: 'Berkshire Swash';
+}
+h3 {
+  font-family: 'Berkshire Swash';
+  font-size: 50px;
+}
+.interviews img {
+       margin: 40px 0px 0px 0px;
+       border: 7px solid black;
+       border-radius: 10px;
+}
+.interviews h3 {
+  text-align: center;
+  padding-right: 50px;
+  font-color: black;
+}
+.interviews {
+  padding-bottom: 40px;
+}
+.reviews {
+  background-color: rgba(0, 0, 0, 0.5);
+  background-size: cover;
+}
+.reviews h3 {
+  text-align: center;
+  padding-right: 50px;
+  color: white;
+ 
+}
+.reviews p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+.reviews small {
+  font-size: 15px;
+}
+.reviews img {
+   margin: 40px 0px 0px 0px;
+   border: 3px solid white;
+   border-radius: 3px;
+}
+
+#social-buttons {
+  margin-top: 50px;
+}
+
+.btn-twitter {
+  background-color: #00acee;
+  border-color: #009ad5;
+  color: white;
+}
+
+.btn-facebook {
+  background-color: #4868ac;
+  border-color: #314776;
+  color: white;
+}
+
